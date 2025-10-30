@@ -1,7 +1,6 @@
 .App {
   margin: 0px;
   font-family: Arial, sans-serif;
-  font-weight: bold;
   background-color: #f4f4f4;
 }
 
@@ -11,6 +10,7 @@
   padding: 40px 0px;
   background-color: #273544;
   font-size: 1.5rem;
+  font-weight: bold;
   color: white;
 }
 
